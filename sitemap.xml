@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.postgrescompare.com/</loc>
+  <lastmod>2016-07-09T21:50:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.postgrescompare.com/index.html</loc>
+  <lastmod>2016-07-09T21:50:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.postgrescompare.com/blog/</loc>
+  <lastmod>2016-07-19T04:09:58+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.postgrescompare.com/contact.html</loc>
+  <lastmod>2016-07-09T21:50:07+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.postgrescompare.com/blog/aboutme/</loc>
+  <lastmod>2016-07-19T04:09:58+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.postgrescompare.com/blog/2016-07-18-guiding-principles/</loc>
+  <lastmod>2016-07-19T04:09:58+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.postgrescompare.com/blog/2016-07-05-prototype/</loc>
+  <lastmod>2016-07-19T04:09:58+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.postgrescompare.com/blog/2016-06-30-version-control-summary/</loc>
+  <lastmod>2016-07-19T04:09:58+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
