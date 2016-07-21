@@ -1843,7 +1843,7 @@
 			text-decoration: none;
 		}
 
-	h2 {
+	h1, h2 {
 		font-size: 2.25em;
 		line-height: 1.5em;
 		letter-spacing: -0.035em;
