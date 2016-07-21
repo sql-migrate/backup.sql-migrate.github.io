@@ -3043,11 +3043,11 @@
 			margin-bottom: 0;
 		}
 
-		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
+		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6, #bannder h1 {
 			color: #fff;
 		}
 
-		#banner h2 {
+		#banner h2, #banner h1 {
 			font-size: 3.5em;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
