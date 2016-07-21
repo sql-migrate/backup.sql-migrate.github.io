@@ -3102,7 +3102,7 @@
 			margin: 0 0 3em 0;
 		}
 
-			#main > header h2 {
+			#main > header h1 {
 				font-size: 2.75em;
 				margin: 0;
 			}
@@ -3176,7 +3176,7 @@
 		text-align: center;
 	}
 
-		#cta h2, #cta h3, #cta h4, #cta h5, #cta h6 {
+		#cta h2, #cta h3, #cta h4, #cta h5, #cta h6, #cta h1 {
 			color: inherit;
 		}
 
@@ -3273,7 +3273,7 @@
 				background-attachment: scroll;
 			}
 
-				#banner h2 {
+				#banner h1 {
 					font-size: 3.5em;
 				}
 
@@ -3530,7 +3530,7 @@
 				font-size: 11pt;
 			}
 
-			h2 {
+			h2, h1 {
 				font-size: 1.75em;
 				line-height: 1.35em;
 				letter-spacing: -0.025em;
@@ -3550,7 +3550,7 @@
 				padding: 1em;
 			}
 
-				header.major h2, header.major p {
+				header.major h2, header.major p, header.major h1 {
 					padding-left: 0.5em;
 					padding-right: 0.5em;
 				}
@@ -3604,7 +3604,7 @@
 				padding: 4em 0;
 			}
 
-				#banner h2 {
+				#banner h2, #banner h1 {
 					font-size: 2.25em;
 				}
 
@@ -3622,7 +3622,7 @@
 					margin: 0 2em 1.5em 2em;
 				}
 
-					#main > header h2 {
+					#main > header h2, #main > header h1 {
 						font-size: 2em;
 					}
 
